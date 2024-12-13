@@ -1,0 +1,30 @@
+Metadata-Version: 2.1
+Name: Cinos_API
+Version: 1.0.0
+Summary: A module for managing food, drinks, and ice cream orders.
+Home-page: https://github.com/los9806/Matos_Sprint_4_Final.git
+Author: Carlos Matos
+Author-email: your_email@example.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+
+# Cinos Module
+
+## Overview
+
+The **Cinos Module** is a Python library designed for managing a food and drink ordering system. It includes the following features:
+- Manage food items with toppings
+- Customize drinks with various bases and flavors
+- Add and price ice cream with toppings (fixins)
+- Combine items into an order with tax and receipt generation
+
+## Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/los9806/Matos_Sprint_4_Final.git
+
+## License
+Distributed under the MIT License. See `LICENSE` for more information.
